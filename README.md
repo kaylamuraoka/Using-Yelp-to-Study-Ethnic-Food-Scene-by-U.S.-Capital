@@ -321,7 +321,7 @@ plt.savefig('cuisine_diversity_barplot.png', format = 'png', dpi = 400, auto_ope
 ```
 
 
-![png](output_27_0.png)
+![png](Bar-Chart.png)
 
 
 # Chart 2: Pie Chart of Cuisine Diversity
@@ -346,7 +346,7 @@ fig.savefig('cuisine_diversity_pie_chart.png', format = 'png', dpi = 400, auto_o
 ```
 
 
-![png](output_30_0.png)
+![png](Pis-Chart.png)
 
 
 # Learning Something New: 
