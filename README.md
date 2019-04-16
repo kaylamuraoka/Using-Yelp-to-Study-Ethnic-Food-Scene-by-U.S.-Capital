@@ -346,7 +346,7 @@ fig.savefig('cuisine_diversity_pie_chart.png', format = 'png', dpi = 400, auto_o
 ```
 
 
-![png](Pis-Chart.png)
+![png](Pie-Chart.png)
 
 
 # Learning Something New: 
