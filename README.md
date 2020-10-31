@@ -30,7 +30,7 @@ import seaborn as sns  # provides the functionality to visualize Python histogra
 from pylab import savefig
 ```
 
-# Step 2: Choosing Our Target Capital to Analyze it's Ethnic Food Diversity
+# Step 2: Choosing Our Target Capital to Analyze its Ethnic Food Diversity
 
 The only downside to using Yelp was that I could only scrape data on 2,000 businesses per endpoint. Due to this limitation, scrapping data of every restaurant located in a state would be impossible so this code finds the food scene within the capital of the user's home state. I chose to do this because more often than not the capital is the state's hub of restaurants and culture. Therefore, I created a dictionary linking US states and their capitals to ensure there would be no invalid inputs by the user. In addition, it allowed me to also select the capital corresponding to the state the user inputs.
 
